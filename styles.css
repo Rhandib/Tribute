@@ -95,7 +95,7 @@ body {
     border-radius: 15px 120px;
   }
   
-  @media (max-width: 1080px) {
+ (max-width: 1080px) {
     .intro-section,
     .middle-section {
       flex-direction: column;
